@@ -10,7 +10,7 @@ passwd
 ```
 
 Debian11:
-以用户名admin登录
+浏览器登录
 
 ```
 curl https://raw.githubusercontent.com/HXHGTS/AWSECSRoot/master/sshd_config_debian11 > /etc/ssh/sshd_config
